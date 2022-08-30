@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\bin\Debug\net6.0\Less1UserName.exe
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\bin\Debug\net6.0\Less1UserName.deps.json
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\bin\Debug\net6.0\Less1UserName.runtimeconfig.json
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\bin\Debug\net6.0\Less1UserName.dll
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\bin\Debug\net6.0\Less1UserName.pdb
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.AssemblyInfo.cs
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.dll
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\refint\Less1UserName.dll
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.pdb
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\Less1UserName.genruntimeconfig.cache
+C:\Users\Александра\Desktop\LectiaС#1\UserNamepapka\Less1UserName\obj\Debug\net6.0\ref\Less1UserName.dll
